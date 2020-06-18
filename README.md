@@ -14,7 +14,6 @@
 
 # Table of contents
 
-- [Abstract](#abstract)
 - [Goal](#goal)
 - [New Techniques](#new-techniques)
 - [Benefits](#benefits)
